@@ -18,9 +18,9 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKCopying.h>
+#import "FBSDKCopying.h"
 
-#import <FBSDKShareKit/FBSDKShareOpenGraphValueContainer.h>
+#import "FBSDKShareOpenGraphValueContainer.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

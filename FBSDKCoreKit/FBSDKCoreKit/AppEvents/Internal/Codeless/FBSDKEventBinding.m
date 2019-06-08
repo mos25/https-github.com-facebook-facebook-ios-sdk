@@ -18,8 +18,8 @@
 
 #import "FBSDKEventBinding.h"
 
-#import <FBSDKCoreKit/FBSDKAppEvents.h>
-#import <FBSDKCoreKit/FBSDKUtility.h>
+#import "FBSDKAppEvents.h"
+#import "FBSDKUtility.h"
 
 #import "FBSDKAppEventsUtility.h"
 #import "FBSDKCodelessMacros.h"

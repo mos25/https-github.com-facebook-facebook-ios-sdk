@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKConstants.h>
+#import "FBSDKConstants.h"
 
 //immutable
 NS_SWIFT_NAME(ErrorRecoveryConfiguration)

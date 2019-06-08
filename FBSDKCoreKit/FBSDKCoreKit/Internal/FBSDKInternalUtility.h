@@ -247,7 +247,7 @@ NS_SWIFT_NAME(InternalUtility)
   Unregisters a transient object that was previously registered with registerTransientObject:
  @param object The transient object
  */
-+ (void)unregisterTransientObject:(__weak id)object;
++ (void)unregisterTransientObject:(id)object;
 
 /**
   validates that the app ID is non-nil, throws an NSException if nil.

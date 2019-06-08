@@ -18,7 +18,7 @@
 
 #import "FBSDKHybridAppEventsScriptMessageHandler.h"
 
-#import <FBSDKCoreKit/FBSDKAppEvents.h>
+#import "FBSDKAppEvents.h"
 
 #import "FBSDKAppEvents+Internal.h"
 

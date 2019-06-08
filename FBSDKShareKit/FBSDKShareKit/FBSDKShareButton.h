@@ -18,9 +18,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKCoreKit/FBSDKButton.h>
+#import "FBSDKButton.h"
 
-#import <FBSDKShareKit/FBSDKSharingButton.h>
+#import "FBSDKSharingButton.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

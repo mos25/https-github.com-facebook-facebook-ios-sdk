@@ -19,7 +19,7 @@
 #import "FBSDKDeviceLoginManager.h"
 #import "FBSDKDeviceLoginManagerResult+Internal.h"
 
-#import <FBSDKCoreKit/FBSDKConstants.h>
+#import "FBSDKConstants.h"
 
 #import "FBSDKCoreKit+Internal.h"
 #import "FBSDKDeviceLoginCodeInfo+Internal.h"

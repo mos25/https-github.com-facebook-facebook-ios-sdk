@@ -19,8 +19,8 @@
 #import "FBSDKLoginManager+Internal.h"
 #import "FBSDKLoginManagerLoginResult+Internal.h"
 
-#import <FBSDKCoreKit/FBSDKAccessToken.h>
-#import <FBSDKCoreKit/FBSDKSettings.h>
+#import "FBSDKAccessToken.h"
+#import "FBSDKSettings.h"
 
 #import "_FBSDKLoginRecoveryAttempter.h"
 #import "FBSDKCoreKit+Internal.h"

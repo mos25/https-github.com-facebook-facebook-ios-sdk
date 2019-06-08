@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import "FBSDKCoreKit.h"
 
 #import "FBSDKDeviceLoginManagerResult.h"
 

@@ -24,8 +24,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKCoreKit/FBSDKGraphRequest.h>
-#import <FBSDKCoreKit/FBSDKSettings.h>
+#import "FBSDKGraphRequest.h"
+#import "FBSDKSettings.h"
 
 #import "FBSDKCoreKit+Internal.h"
 

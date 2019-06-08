@@ -18,7 +18,7 @@
 
 #import "FBSDKLoginCompletion+Internal.h"
 
-#import <FBSDKCoreKit/FBSDKConstants.h>
+#import "FBSDKConstants.h"
 
 #import "FBSDKCoreKit+Internal.h"
 #import "FBSDKLoginConstants.h"

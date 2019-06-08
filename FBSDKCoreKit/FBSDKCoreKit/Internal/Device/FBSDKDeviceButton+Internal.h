@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKDeviceButton.h>
+#import "FBSDKDeviceButton.h"
 
 @interface FBSDKDeviceButton ()
 

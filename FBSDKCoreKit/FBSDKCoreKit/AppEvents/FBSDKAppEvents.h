@@ -22,7 +22,7 @@
 #import <WebKit/WebKit.h>
 #endif
 
-#import <FBSDKCoreKit/FBSDKGraphRequestConnection.h>
+#import "FBSDKGraphRequestConnection.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

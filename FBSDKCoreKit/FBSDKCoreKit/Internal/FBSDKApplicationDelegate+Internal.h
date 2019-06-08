@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKApplicationDelegate.h>
+#import "FBSDKApplicationDelegate.h"
 
 #import "FBSDKCoreKit+Internal.h"
 

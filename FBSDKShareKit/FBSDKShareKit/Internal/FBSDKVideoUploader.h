@@ -18,10 +18,10 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import "FBSDKCoreKit.h"
 
-#import <FBSDKShareKit/FBSDKShareVideo.h>
-#import <FBSDKShareKit/FBSDKSharing.h>
+#import "FBSDKShareVideo.h"
+#import "FBSDKSharing.h"
 
 @protocol FBSDKVideoUploaderDelegate;
 

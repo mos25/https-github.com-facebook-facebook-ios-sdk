@@ -18,7 +18,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import "FBSDKCoreKit.h"
 
 #if !TARGET_OS_TV
 #import "../AppEvents/Internal/Codeless/FBSDKViewHierarchy.h"

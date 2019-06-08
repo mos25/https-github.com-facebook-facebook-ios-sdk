@@ -18,8 +18,8 @@
 
 #import "FBSDKLoginUtility.h"
 
-#import <FBSDKCoreKit/FBSDKConstants.h>
-#import <FBSDKCoreKit/FBSDKSettings.h>
+#import "FBSDKConstants.h"
+#import "FBSDKSettings.h"
 
 #import "FBSDKCoreKit+Internal.h"
 #import "FBSDKLoginConstants.h"

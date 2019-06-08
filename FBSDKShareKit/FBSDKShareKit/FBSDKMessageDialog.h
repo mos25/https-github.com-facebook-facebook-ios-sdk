@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKShareKit/FBSDKSharing.h>
+#import "FBSDKSharing.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

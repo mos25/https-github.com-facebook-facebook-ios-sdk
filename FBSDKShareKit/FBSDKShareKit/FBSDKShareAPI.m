@@ -22,8 +22,8 @@
 #import <AssetsLibrary/AssetsLibrary.h>
 #endif
 
-#import <FBSDKCoreKit/FBSDKGraphRequest.h>
-#import <FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h>
+#import "FBSDKGraphRequest.h"
+#import "FBSDKGraphRequestDataAttachment.h"
 
 #import "FBSDKCoreKit+Internal.h"
 #import "FBSDKShareConstants.h"
